@@ -1,4 +1,4 @@
-package main
+package js2kv
 
 import (
 	"encoding/json"
