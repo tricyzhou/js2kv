@@ -1,2 +1,5 @@
-# js2kv
-convert json and key-value by golang  
+#### js2kv -- 20210813
+* json数据到kv数据转化逻辑
+* 支持json检验
+* 支持分隔符自定义
+#### 未完待续...
