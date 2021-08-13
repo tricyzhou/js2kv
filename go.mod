@@ -1,4 +1,4 @@
-module js2kv
+module github.com/tricyzhou/js2kv
 
 go 1.16
 
